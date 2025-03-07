@@ -76,7 +76,7 @@ export default function Home() {
       {/* Header */}
       <header className="bg-black shadow-sm py-4 px-6 flex items-center gap-4">
         <Image src="/TIAG-logo-white.png" alt="TIAG Logo" width={100} height={100} />
-        <h1 className="text-2xl font-bold text-blue-300">Company AI Assistant</h1>
+        <h1 className="text-2xl font-bold text-blue-300">BD Skunkworks AI Assistant</h1>
       </header>
 
       {/* Chat container - will fill available space */}
